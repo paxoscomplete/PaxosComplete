@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- '.'
+extra-deps: 
+- smallcheck-1.1.1
+resolver: lts-5.15
